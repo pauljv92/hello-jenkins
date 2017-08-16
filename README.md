@@ -1,2 +1,2 @@
 # hello-jenkins
-jenkins automation
+Jenkins automation repo
